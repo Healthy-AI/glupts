@@ -1,0 +1,1 @@
+from .clock_data import clock_LGS
